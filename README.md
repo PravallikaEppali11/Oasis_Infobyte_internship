@@ -1,7 +1,7 @@
 # Oasis_Infobyte_internship
-______________________________________________
+
 Data Science Internship
-______________________________________________
+
 Tasks
 1. IRIS FLOWER CLASSIFICATION.
 
