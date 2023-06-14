@@ -10,4 +10,4 @@ Learning.
 
 [Linkedin link :]
 
-[Google colab link :]
+[Google colab link :] https://colab.research.google.com/drive/14vX5OC680cqBFnte_VIHnjoHhudAfkra?usp=sharing
