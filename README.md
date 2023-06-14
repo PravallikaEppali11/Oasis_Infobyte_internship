@@ -1,8 +1,8 @@
 # Oasis_Infobyte_internship
 
-##Data Science Internship
+## Data Science Internship
 
-###Tasks
+### Tasks
 1. IRIS FLOWER CLASSIFICATION.
 
 2. UNEMPLOYMENT ANALYSIS WITH PYTHON.
