@@ -3,4 +3,7 @@ features of the car, horsepower and the mileage it gives and many more. Car pric
 prediction is one of the major research areas in machine learning. So if you want to learn
 how to train a car price prediction model then this project is for you.
 
+[Linkedin link :]
+
+[Google colab link :] https://colab.research.google.com/drive/1_6qzCZ3VUm7n2z5MFcY_pmJhXZ1s3KIO?usp=sharing
 
