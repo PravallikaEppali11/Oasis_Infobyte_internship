@@ -3,7 +3,7 @@
 ## Data Science Internship
 
 ### Tasks
-1. IRIS FLOWER CLASSIFICATION [Linkedin Post]: (https://www.linkedin.com/feed/update/urn:li:activity:7074954020972347392/ originTrackingId=Pa9oyq2iQGe%2BPHDNsA451w%3D%3D)
+1. IRIS FLOWER CLASSIFICATION [Linkedin Post]: (https://www.linkedin.com/feed/update/urn:li:activity:7074954020972347392/originTrackingId=Pa9oyq2iQGe%2BPHDNsA451w%3D%3D)
 
 2. UNEMPLOYMENT ANALYSIS WITH PYTHON.
 
