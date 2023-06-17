@@ -7,8 +7,8 @@
 
 2. UNEMPLOYMENT ANALYSIS WITH PYTHON [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7074963910323290112/)
 
-3. CAR PRICE PREDICTION WITH MACHINE LEARNING.
+3. CAR PRICE PREDICTION WITH MACHINE LEARNING [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7075298437415464960/)
 
-4. EMAIL SPAM DETECTION WITH MACHINE LEARNING.
+4. EMAIL SPAM DETECTION WITH MACHINE LEARNING [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7075298442889097216/)
 
-5. SALES PREDICTION USING PYTHON.
+5. SALES PREDICTION USING PYTHON [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7075298442213814272/)
